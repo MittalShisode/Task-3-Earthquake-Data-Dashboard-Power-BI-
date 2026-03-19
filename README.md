@@ -46,4 +46,4 @@ Earthquake dataset containing:
 
 ## 🚀 Author
 
-Mayur Kolekar
+Mittal Shisode
